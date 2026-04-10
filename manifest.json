@@ -1,6 +1,6 @@
 {
   "name": "DebtDash – Income & Goals",
-  "short_name": "DebtDash",
+  "short_name": "wallet",
   "description": "Track your income, schedule and financial goals",
   "start_url": "./index.html",
   "display": "standalone",
